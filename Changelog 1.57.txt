@@ -1,0 +1,7 @@
+Over9000 Panthera Server Version: 1.57
+
+[Changed] Bury a player body will reset the Death Location of that player and the player can spawn in the area again 
+[Removed] Tag as Friendly - it is not longer necessary since we can use the Group Management
+[Removed] Christmas Event and Snowmans
+[Fixed] Light Poles were broken after every restart
+[Fixed] Plot Upgrade crate could still disappear
