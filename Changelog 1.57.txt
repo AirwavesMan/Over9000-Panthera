@@ -1,5 +1,7 @@
 Over9000 Panthera Server Version: 1.57
 
+[Added] Kill me option via ESC Menu if the player is in water
+[Added] Info Menu via ESC Menu
 [Changed] Bury a player body will reset the Death Location of that player and the player can spawn in the area again 
 [Removed] Tag as Friendly - it is not longer necessary since we can use the Group Management
 [Removed] Christmas Event and Snowmans
