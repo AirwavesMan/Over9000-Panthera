@@ -7,3 +7,4 @@ Over9000 Panthera Server Version: 1.57
 [Removed] Christmas Event and Snowmans
 [Fixed] Light Poles were broken after every restart
 [Fixed] Plot Upgrade crate could still disappear
+[Fixed] PVE Mode could be still active for players if the PVE vote dialog was still open after disabling the PVE Mode
