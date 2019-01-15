@@ -2,11 +2,13 @@ Over9000 Panthera Server Version: 1.57
 
 [Added] Kill me option via ESC Menu if the player is in water
 [Added] Info Menu via ESC Menu
+[Added] Locate own Plot Pole
 [Changed] Bury a player body will reset the Death Location of that player and the player can spawn in the area again 
-[Changed] Sell prices of Ammo and gems were decreased - this is needed for upcoming changes 
+[Changed] Sell prices of ammo and gems were decreased - this is needed for upcoming changes 
 [Changed] Loot spawn rate of industrial buildings were slightly lowered 
 [Removed] Tag as Friendly - it is not longer necessary since we can use the Group Management
 [Removed] Christmas Event and Snowmans
 [Fixed] Light Poles were broken after every restart
 [Fixed] Plot Upgrade crate could still disappear
 [Fixed] PVE Mode could be still active for players if the PVE vote dialog was still open after disabling the PVE Mode
+[Fixed] Church ruins had the wrong loot type and wrong zombies
