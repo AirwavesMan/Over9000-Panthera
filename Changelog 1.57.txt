@@ -12,3 +12,4 @@ Over9000 Panthera Server Version: 1.57
 [Fixed] Plot Upgrade crate could still disappear
 [Fixed] PVE Mode could be still active for players if the PVE vote dialog was still open after disabling the PVE Mode
 [Fixed] Church ruins had the wrong loot type and wrong zombies
+[Fixed] Changing clothes will not longer reset the radio if it is on or off
