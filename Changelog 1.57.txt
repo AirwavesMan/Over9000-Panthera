@@ -21,3 +21,4 @@ Over9000 Panthera Server Version: 1.57
 [Fixed] Church ruins had the wrong loot type and wrong zombies
 [Fixed] Changing clothes will not longer reset the radio state if it is On or Off
 [Fixed] If more as 50 XP were left over from converting XP to Perk Points the difference between the remaining XP were 0
+[Fixed] Icons and writings for sepsis, pain and broken legs were not centered to each other
