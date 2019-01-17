@@ -5,11 +5,13 @@ Over9000 Panthera Server Version: 1.57
 [Added] Locate own Plot Pole
 [Added] Turn Radio Off/On has a sound now
 [Added] New Settings Menu in the Info Menu - you can set different actions there like Intro Sound, Menu language and more
+[Changed] With the new Settings Menu we have removed many actions from the tools and some actions were moved to other tools like the PVE Vote which can be applied on the GPS now
 [Changed] Bury a player body will reset the death location of that player and the player can spawn in the area again 
 [Changed] Sell prices of scrap elecronics, floppy wire, ammo and gems were decreased - this is needed for upcoming changes 
 [Changed] Loot spawn rate of industrial buildings were slightly lowered 
 [Changed] Sell prices of D battery, C4, hotwire kits and satchel charges were highly increased
 [Changed] XP gain from crafting lumber and plywood packs were lowered since players use this to generate XP
+[Changed] We have rearranged the rules - nothing has changed here only the visibility
 [Removed] Tag as Friendly - it is not longer necessary since we can use the Group Management
 [Removed] Christmas Event and Snowmans
 [Removed] Troubleshooting Menu - not longer needed and outdated
