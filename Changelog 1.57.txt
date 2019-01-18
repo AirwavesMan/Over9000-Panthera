@@ -12,6 +12,7 @@ Over9000 Panthera Server Version: 1.57
 [Changed] Sell prices of D battery, C4, hotwire kits and satchel charges were highly increased
 [Changed] XP gain from crafting lumber and plywood packs were lowered since players use this to generate XP
 [Changed] We have rearranged the rules - nothing has changed here only the visibility
+[Changed] The Abandoned Safe Event will not spawn, if the PVE Mode is active.
 [Removed] Tag as Friendly - it is not longer necessary since we can use the Group Management
 [Removed] Christmas Event and Snowmans
 [Removed] Troubleshooting Menu - not longer needed and outdated
@@ -22,3 +23,5 @@ Over9000 Panthera Server Version: 1.57
 [Fixed] Changing clothes will not longer reset the radio state if it is On or Off
 [Fixed] If more as 50 XP were left over from converting XP to Perk Points the difference between the remaining XP were 0
 [Fixed] Icons and writings for sepsis, pain and broken legs were not centered to each other
+[Fixed] PVE Mode Vote count could still be higher as the player count.
+[Fixed] PVE Mode Vote could not be activated if a player leaves and the player count was the same as the pve vote count.
