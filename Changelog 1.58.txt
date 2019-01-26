@@ -1,2 +1,11 @@
 Over9000 Panthera Server Version: 1.58
 
+[Changed] Players need an entrenching tool to remove their plot pole now - we changed that due to players trapped themselves inside a base after removing their plot pole
+[Changed] Build a plot pole checks not longer the build item count in range - this was changed as well to prevent getting trapped inside of the own base if the plot level was not the same as the build item count
+
+Live Already
+
+[Updated] German and English translations of the Info Menu and in-game texts were corrected and many bugs were fixed - thx @Kronky for the english fixes
+[Fixed] Harvest weed dupe - a few players were banned because of using this dupe
+[Fixed] Loot spawn bug
+
