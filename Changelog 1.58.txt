@@ -4,8 +4,11 @@ Over9000 Panthera Server Version: 1.58
 [Changed] Players need an entrenching tool to remove their plot pole now - we changed that due to players trapped themselves inside a base after removing their plot pole
 [Changed] Build a plot pole checks not longer the build item count in range - this was changed as well to prevent getting trapped inside of the own base if the plot level was not the same as the build item count
 [Changed] The black screen from the uncouncious animation will be disabled if the player switches to its weapon but not before switching
+[Changed] All changed vehicles weapons will be correct displayed in the Trader Menu now - technically this was not a bug
 [Fixed] Uncouncious had a chance not to enable user input again if the player has no weapon - Fix from Epoch Mod [73118c2]
 [Fixed] Uncouncious had a chance not to enable user input again if the player pushes a button that interrupts enable user input
+[Fixed] In Trader Menu the information about the maximum gear item and weapon count from the CH-47 was missing
+[Fixed] In Trader Menu all Jackal versions had no weapons listed
 
 Live Already
 
