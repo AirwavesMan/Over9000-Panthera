@@ -1,5 +1,6 @@
 Over9000 Panthera Server Version: 1.58
 
+[Added] The Intro Camera can be disabled via Settings Menu now
 [Changed] Players need an entrenching tool to remove their plot pole now - we changed that due to players trapped themselves inside a base after removing their plot pole
 [Changed] Build a plot pole checks not longer the build item count in range - this was changed as well to prevent getting trapped inside of the own base if the plot level was not the same as the build item count
 [Changed] The black screen from the uncouncious animation will be disabled if the player switches to its weapon but not before switching
