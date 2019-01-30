@@ -5,16 +5,20 @@ Over9000 Panthera Server Version: 1.58
 [Added] A player who has received coins from another player gets a message and a sound about the received coins now
 [Added] Doctor Ivan found its way to Panthera Island - more in the Info Menu
 [Added] Every AI-Missions will spawn once before an AI-Missions can spawn twice now
+[Added] Special Event System - more in the Info Menu
 [Changed] Players need an entrenching tool to remove their plot pole now - we changed that due to players trapped themselves inside a base after removing their plot pole
 [Changed] Build a plot pole checks not longer the build item count in range - this was changed as well to prevent getting trapped inside of the own base if the plot level was not the same as the build item count
 [Changed] The black screen from the uncouncious animation will be disabled if the player switches to its weapon but not before switching
-[Changed] All changed vehicles weapons will be correct displayed in the Trader Menu now - technically this was not a bug
+[Changed] All changed vehicle weapons will be correct displayed in the Trader Menu now - technically this was not a bug
 [Changed] Briefcases cannot longer be bought - the briefcases for the Plot Pole Upgrade must be found somewhere else
 [Changed] Small sell price changes for SMG and Single-Shot weapon ammo
-[Changed] Decreasing the XP chance from crafting sand bags or round sand bags
+[Changed] Decreasing the XP chance from crafting sand bags and round sand bags
 [Changed] Increased the buy price of the pickaxe from 700 Coins to 1.200 Coins
 [Changed] Increased the buy price of the combination lock from 30.000 Coins to 50.000 Coins
-[Removed] Change code for doors - this is not needed since we do not allow manual codes
+[Changed] Ore Melting works different and you get better rewards now
+[Changed] You cannot longer plant weed at Trader Village Selca
+[Changed] The maximum RP you can get from bibles were lowered
+[Removed] Change code for doors - this is not longer needed since we do not allow manual codes
 [Removed] Dialog to enter the door code manually - not longer needed
 [Fixed] Uncouncious had a chance not to enable user input again if the player has no weapon - Fix from Epoch Mod [73118c2]
 [Fixed] Uncouncious had a chance not to enable user input again if the player pushes a button that interrupts enable user input
@@ -22,7 +26,7 @@ Over9000 Panthera Server Version: 1.58
 [Fixed] In Trader Menu all Jackal versions had no weapons listed
 [Fixed] Crafting cinder blocks did not alert nearby zombies
 [Fixed] Crafting items checked twice for XP - the result was 2 possbile XP points for one action
-[Fixed] Duping methode with craft in shed - a few items cannot longer be used with craft in shed
+[Fixed] Duping methode with Craft in Shed - a few items cannot longer be used with Craft in Shed
 
 Live Already
 
