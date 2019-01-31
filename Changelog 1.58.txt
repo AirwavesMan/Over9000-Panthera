@@ -4,6 +4,7 @@ Over9000 Panthera Server Version: 1.58
 [Added] Ammo, food, drink, half tanktrap, half wire and half scrap metal crates can be sold now.
 [Added] A player who has received coins from another player now gets a notification (sound/message).
 [Added] Doctor Ivan has found his way to Panthera Island - more in the Info Menu.
+[Added] The music sheets have a rightclick option now.
 [Added] Special Event System - We noticed that many players were using the same methods to make money. Farming Oil, Sapphires or searching loot at the ship cemetery are the most common actions beside the missions. We thought to ourselves that a random event system would make the money gaining process less static and more variable. 
 		This means:
 			- The Event System will decide on server startup which scenarios to run, of the 4 following:
@@ -14,7 +15,7 @@ Over9000 Panthera Server Version: 1.58
 			- Every scenario has a 25% to occur
 			- The white boards at the Trader Cities have an extra Scroll Option for "Recent Rumors" now, you can read all the information about the current event there.
 			- The item newspaper has the "Recent Rumors" option as well, and can be used multiple times.
-[Changed] The same mission no longer spawns in twice in a server cycle.
+[Changed] An AI-Mission will no longer spawns in twice in a server cycle if not all other AI-Missions have spawned already.
 [Changed] Players need an entrenching tool to remove their plot pole now - we changed this due to players trapping themselves inside a base after removing their plot pole.
 [Changed] Building a plot pole no longer checks the build item count in range - this was changed as well to prevent getting trapped inside of the own base if the plot level was not the same as the build item count.
 [Changed] The black screen from the uncouncious animation will be disabled if the player switches to his weapon but not before switching.
@@ -28,7 +29,7 @@ Over9000 Panthera Server Version: 1.58
 [Changed] You can no longer plant weed at Trader Village Selca.
 [Changed] The maximum RP you can get from bibles has been lowered.
 [Removed] Change code for doors - this is no longer needed since we do not allow manual codes.
-[Removed] Dialog to enter the door code manually - not longer needed as well.
+[Removed] Dialog to enter the door code manually - no longer needed as well.
 [Fixed] Uncouncious state had a chance not to enable user input again if the player has no weapon - Fix from Epoch Mod [73118c2].
 [Fixed] Uncouncious state had a chance not to enable user input again if the player pushes a button that interrupts enable user input.
 [Fixed] The maximum gear slot information from the CH-47 was missing in the trader menu.
