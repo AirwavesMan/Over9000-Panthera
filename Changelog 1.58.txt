@@ -4,8 +4,18 @@ Over9000 Panthera Server Version: 1.58
 [Added] Ammo, food, drink, half tanktrap, half wire and half scrap metal crates can be sold now
 [Added] A player who has received coins from another player gets a message and a sound about the received coins now
 [Added] Doctor Ivan found its way to Panthera Island - more in the Info Menu
-[Added] Every AI-Missions will spawn once before an AI-Missions can spawn twice now
-[Added] Special Event System - more in the Info Menu
+[Added] Every AI-Missions will spawn once before an AI-Mission can spawn twice now
+[Added] Special Event System - We noticed, that players doing every time almost the same actions to make money. Farming Oil, Sapphires or searching loot at the ship cemetery are the most common actions beside the missions. We thought to ourselves that a random Event System would make this gain money process less static and more variable. 
+		This means:
+			- The Event System will decide directly on server startup which make money action is because of an incident not useable for one server period.
+			- At the moment we have 4 scenarios:
+				- Filling Oil is disabled
+				- Collecting Sapphires is disabled
+				- Searching for sunken ships at the Ship Cemetery is disabled
+				- Nothing is disabled
+			- Every scenario has a 25% to occur
+			- The white boards at the Trader Cities have an extra Scroll Option for "Recent Rumors" now, you can read all the information about the current event there
+			- The item newspaper has the "Recent Rumors" option as well and can be used multiple times
 [Changed] Players need an entrenching tool to remove their plot pole now - we changed that due to players trapped themselves inside a base after removing their plot pole
 [Changed] Build a plot pole checks not longer the build item count in range - this was changed as well to prevent getting trapped inside of the own base if the plot level was not the same as the build item count
 [Changed] The black screen from the uncouncious animation will be disabled if the player switches to its weapon but not before switching
@@ -27,6 +37,7 @@ Over9000 Panthera Server Version: 1.58
 [Fixed] Crafting cinder blocks did not alert nearby zombies
 [Fixed] Crafting items checked twice for XP - the result was 2 possbile XP points for one action
 [Fixed] Duping methode with Craft in Shed - a few items cannot longer be used with Craft in Shed
+[Fixed] The AK-74 GL PSO SD version was not affeced by zombie camo - thx @GolovaRaoul
 
 Live Already
 
