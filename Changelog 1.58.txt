@@ -4,18 +4,19 @@ Over9000 Panthera Server Version: 1.58
 [Added] Ammo, food, drink, half tanktrap, half wire and half scrap metal crates can be sold now.
 [Added] A player who has received coins from another player now gets a notification (sound/message).
 [Added] Doctor Ivan has found his way to Panthera Island - more in the Info Menu.
-[Added] The music sheets have a rightclick option now.
+[Added] The music sheets have a rightclick option and a chance to get XP now.
 [Added] Special Event System - We noticed that many players were using the same methods to make money. Farming Oil, Sapphires or searching loot at the ship cemetery are the most common actions beside the missions. We thought to ourselves that a random event system would make the money gaining process less static and more variable. 
 		This means:
 			- The Event System will decide on server startup which scenarios to run, of the 4 following:
 				- Filling Oil is disabled
-				- Collecting Sapphires at the Coral Riff is disabled
+				- Collecting Sapphires at the Coral Reef is disabled
 				- Searching for sunken ships at the Ship Cemetery is disabled
 				- Nothing is disabled
 			- Every scenario has a 25% chance to occur
 			- The white boards at the Trader Cities have an extra Scroll Option for "Recent Rumors" now, you can read all the information about the current event there.
 			- The item newspaper has the "Recent Rumors" option as well, and can be used multiple times.
-[Changed] An AI-Mission will no longer spawns in twice in a server cycle if not all other AI-Missions have spawned already.
+[Changed] An AI-Mission will no longer spawns in twice in a server cycle if not all other AI-Missions were spawned already.
+[Changed] An AI-Mission will no longer spawns on the same coordinate twice in a server cycle.
 [Changed] Players need an entrenching tool to remove their plot pole now - we changed this due to players trapping themselves inside a base after removing their plot pole.
 [Changed] Building a plot pole no longer checks the build item count in range - this was changed as well to prevent getting trapped inside of the own base if the plot level was not the same as the build item count.
 [Changed] The black screen from the uncouncious animation will be disabled if the player switches to his weapon but not before switching.
@@ -41,6 +42,7 @@ Over9000 Panthera Server Version: 1.58
 [Fixed] Duping methode with Craft in Shed - a few items can no longer be used with Craft in Shed.
 [Fixed] The AK-74 GL PSO SD version was not affected by zombie camo - thx @GolovaRaoul
 [Fixed] Often fishing from the boat over water got cancelled for no reason.
+[Fixed] AI-Missions should no longer spawn on top of each other.
 
 Live Already
 
