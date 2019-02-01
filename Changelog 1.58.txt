@@ -9,10 +9,10 @@ Over9000 Panthera Server Version: 1.58
 		This means:
 			- The Event System will decide on server startup which scenarios to run, of the 4 following:
 				- Filling Oil is disabled
-				- Collecting Sapphires is disabled
+				- Collecting Sapphires at the Coral Riff is disabled
 				- Searching for sunken ships at the Ship Cemetery is disabled
 				- Nothing is disabled
-			- Every scenario has a 25% to occur
+			- Every scenario has a 25% chance to occur
 			- The white boards at the Trader Cities have an extra Scroll Option for "Recent Rumors" now, you can read all the information about the current event there.
 			- The item newspaper has the "Recent Rumors" option as well, and can be used multiple times.
 [Changed] An AI-Mission will no longer spawns in twice in a server cycle if not all other AI-Missions have spawned already.
@@ -23,11 +23,13 @@ Over9000 Panthera Server Version: 1.58
 [Changed] Briefcases can no longer be bought - the briefcases for the plot pole upgrade must be found elsewhere.
 [Changed] Small changes to sell-prices for SMG and single-shot weapon ammo.
 [Changed] Decreasing the XP chance from crafting sand bags and round sand bags.
-[Changed] Increased the buy price of the pickaxe from 700 Coins to 1.200 Coins
+[Changed] Increased the buy price of the pickaxe from 700 Coins to 1.200 Coins.
 [Changed] Increased the buy price of the combination lock from 30.000 Coins to 50.000 Coins.
 [Changed] Ore smelting now works differently and you get better rewards for it.
 [Changed] You can no longer plant weed at Trader Village Selca.
 [Changed] The maximum RP you can get from bibles has been lowered.
+[Changed] Hotwiring doors or gates removes the combination lock now.
+[Changed] The 2nd perk to hotwire doors or gates adds a 40% chance to get the combination lock from the door or the gate.
 [Removed] Change code for doors - this is no longer needed since we do not allow manual codes.
 [Removed] Dialog to enter the door code manually - no longer needed as well.
 [Fixed] Uncouncious state had a chance not to enable user input again if the player has no weapon - Fix from Epoch Mod [73118c2].
@@ -42,6 +44,6 @@ Over9000 Panthera Server Version: 1.58
 
 Live Already
 
-[Updated] German and English translations for the info menu and in-game texts were corrected and many bugs were fixed - Thank you @Kronky for the English fixes.
+[Updated] German and English translations for the info menu and in-game texts were corrected and many bugs were fixed - thx @Kronky for the English fixes.
 [Fixed] Weed harvesting had a duping exploit - a few players were banned because of using this dupe.
 [Fixed] Loot spawn bug.
