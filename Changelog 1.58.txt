@@ -15,6 +15,7 @@ Over9000 Panthera Server Version: 1.58
 			- Every scenario has a 25% chance to occur
 			- The white boards at the Trader Cities have an extra Scroll Option for "Recent Rumors" now, you can read all the information about the current event there.
 			- The item newspaper has the "Recent Rumors" option as well, and can be used multiple times.
+[Added] The border for the upcoming Sector at Vatra.		
 [Changed] An AI-Mission will no longer spawns in twice in a server cycle if not all other AI-Missions were spawned already.
 [Changed] An AI-Mission will no longer spawns on the same coordinate twice in a server cycle.
 [Changed] Players need an entrenching tool to remove their plot pole now - we changed this due to players trapping themselves inside a base after removing their plot pole.
