@@ -1,0 +1,5 @@
+Over9000 Panthera Server Version: 1.59
+
+[Changed] Weed markers on the map will be removed if no plants are left at the weed position.
+[Changed] Removing a wheel from a vehicle has a break chance now.
+[Fixed] AIs should no longer attack traders or trader guards.
