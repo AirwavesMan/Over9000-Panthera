@@ -1,8 +1,9 @@
 Over9000 Panthera Server Version: 1.59
 
-[Added] AK-107 and AK-107 GP - both weapons were missing
-[Added] Attachment System for AK-107, MK-16, UZI - Traders will lists these weapons as well for the Attachment System
+[Added] Attachment System for MK-16, UZI - traders will list these weapons as well for the Attachment System.
 [Changed] Weed markers on the map will be removed if no plants are left at the weed position.
 [Changed] Removing a wheel from a vehicle has a break chance now.
+[Changed] Reading the 'Recent Deaths' in a newspaper will no longer remove the newspaper.
 [Fixed] AIs should no longer attack traders or trader guards.
 [Fixed] At the ship cemetery sometimes the looted items had no name.
+[Fixed] AIs at Safe Zones got not cleared correctly.
