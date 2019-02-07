@@ -4,6 +4,9 @@ Over9000 Panthera Server Version: 1.59
 [Changed] Weed markers on the map will be removed if no plants are left at the weed position.
 [Changed] Removing a wheel from a vehicle has a break chance now.
 [Changed] Reading the 'Recent Deaths' in a newspaper will no longer remove the newspaper.
+[Changed] Shooting the customers at the Central Bank if the Bank Robbery is not active will gain -RP for everyone now - we have changed this because bandit players just killed the customers and ran away. We are considering to disable a the damage for customers if the Bank Robbery is not active.
+[Changed] Zombies getting more damage from players now - our last changes, changed the received damage on zombies. This change should bring it back to a better balance. The damage on Dr. Ivan got slightly increased too.
+[Changed] Convoy AIs getting cleared after some time now. This will prevent that AIs roaming around.
 [Fixed] AIs should no longer attack traders or trader guards.
 [Fixed] At the ship cemetery sometimes the looted items had no name.
 [Fixed] AIs at Safe Zones got not cleared correctly.
