@@ -18,10 +18,13 @@ Over9000 Panthera Server Version: 1.59
 		- Up to 3 vehicles can be in a convoy now.
 		- Convoys have more different vehicles now.
 		- The Convoy loot got updated.
-		- Convoys will no longer their loose loot.
+		- Convoys will no longer loose their loot.
 [Fixed] AIs should no longer attack traders or trader guards.
 [Fixed] At the ship cemetery sometimes the looted items had no name.
 [Fixed] AIs at Safe Zones got not cleared correctly.
 [Fixed] Different localized names for settings in the Info Menu if the language was german.
 [Fixed] AI-Missions had no wait time to spawn after an AI-Mission was cleared.
-[Fixed] The scroll action to get on bike after instant deploy bike was too slow.
+[Fixed] The scroll action to get on bike after instant deploy bike was too slow - thx @Dr Moon.
+[Fixed] The Bank Robbery could be activated twice in a very short time frame.
+[Fixed] The PVE Mode could be activated during the Bank Robbery.
+[Fixed] Vehicles with keys could be locked with the open scroll action 'lock vehicle' even if the player had no longer the key while the scroll action was still open - thx @Markey.
