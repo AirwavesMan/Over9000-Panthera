@@ -13,13 +13,15 @@ Over9000 Panthera Server Version: 1.59
 [Changed] After disabling the PVE Mode it takes 15 minutes to enable the PVE Mode again.
 [Changed] The AI-Convoys were reworked.
 		- Convoy AIs getting cleared after some time now if they are not in range of their vehicle. This will prevent that AIs roaming around.
-		- Killing a Convoy AI will no longer give coins for a kill.
+		- Killing a Convoy AI will no longer give coin rewards for a kill.
 		- Convoy vehicles will be completly random now.
 		- Up to 3 vehicles can be in a convoy now.
 		- Convoys have more different vehicles now.
 		- The Convoy loot got updated.
+		- Convoys will no longer their loose loot.
 [Fixed] AIs should no longer attack traders or trader guards.
 [Fixed] At the ship cemetery sometimes the looted items had no name.
 [Fixed] AIs at Safe Zones got not cleared correctly.
 [Fixed] Different localized names for settings in the Info Menu if the language was german.
 [Fixed] AI-Missions had no wait time to spawn after an AI-Mission was cleared.
+[Fixed] The scroll action to get on bike after instant deploy bike was too slow.
