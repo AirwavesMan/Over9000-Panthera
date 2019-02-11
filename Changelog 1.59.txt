@@ -19,6 +19,8 @@ Over9000 Panthera Server Version: 1.59
 		- Convoys have more different vehicles now.
 		- The Convoy loot got updated.
 		- Convoys will no longer loose their loot.
+[Changed] The remained material of a removed building part will spawn directly under the player now no longer at the old building part position. This prevent floating loot that is no longer reachable.		
+[Changed] Spawning messages AI-Missions were moved a bit higher on the left side of thr screen. This will prevent that the scroll menu overlaps with the AI-Mission messages.
 [Fixed] AIs should no longer attack traders or trader guards.
 [Fixed] At the ship cemetery sometimes the looted items had no name.
 [Fixed] AIs at Safe Zones got not cleared correctly.
@@ -28,3 +30,5 @@ Over9000 Panthera Server Version: 1.59
 [Fixed] The Bank Robbery could be activated twice in a very short time frame.
 [Fixed] The PVE Mode could be activated during the Bank Robbery.
 [Fixed] Vehicles with keys could be locked with the open scroll action 'lock vehicle' even if the player had no longer the key while the scroll action was still open - thx @Markey.
+[Fixed] RP, XP and Mission gains were not shown if players had a normal or higher interface size.
+[Fixed] Messages on the top of the screen like an active Bank Robbery or the Jackpot were still not centered.
