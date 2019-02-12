@@ -4,6 +4,7 @@ Over9000 Panthera Server Version: 1.59
 [Added] Players can disable punch with 't' in the Settings Menu now - we added this feature because some players using t for talking.
 [Added] 3 missing BTR-40 versions.
 [Added] Many new vehilces spawn at AI-Missions now.
+[Added] Radio check on the radio - this can be used to check if players are near within 200m with an enabled radio.
 [Changed] Weed markers on the map will be removed if no plants are left at the weed position.
 [Changed] Removing a wheel from a vehicle has a break chance now.
 [Changed] Reading the 'Recent Deaths' in a newspaper will no longer remove the newspaper.
@@ -19,8 +20,10 @@ Over9000 Panthera Server Version: 1.59
 		- Convoys have more different vehicles now.
 		- The Convoy loot got updated.
 		- Convoys will no longer loose their loot.
+		- The AI-Convoy units will be affected by their body armor now.
 [Changed] The remained material of a removed building part will spawn directly under the player now no longer at the old building part position. This prevent floating loot that is no longer reachable.		
 [Changed] Spawning messages AI-Missions were moved a bit higher on the left side of thr screen. This will prevent that the scroll menu overlaps with the AI-Mission messages.
+[Changed] The code of a resetted 0000 safe cannot longer be changed. The safe must be packed and replaced. - We changed that because of the Abandoned Safe Event. This is a PVP event were players should fight about the loot not just set a new code and leave.
 [Fixed] AIs should no longer attack traders or trader guards.
 [Fixed] At the ship cemetery sometimes the looted items had no name.
 [Fixed] AIs at Safe Zones got not cleared correctly.
@@ -32,3 +35,4 @@ Over9000 Panthera Server Version: 1.59
 [Fixed] Vehicles with keys could be locked with the open scroll action 'lock vehicle' even if the player had no longer the key while the scroll action was still open - thx @Markey.
 [Fixed] RP, XP and Mission gains were not shown if players had a normal or higher interface size.
 [Fixed] Messages on the top of the screen like an active Bank Robbery or the Jackpot were still not centered.
+[Fixed] AI-Mission vehicles got not cleared properly.
