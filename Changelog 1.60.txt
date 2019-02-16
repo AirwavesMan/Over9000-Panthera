@@ -1,4 +1,6 @@
 Over9000 Panthera Server Version: 1.60
 
-[Changed] The Halo Spawn will be removed with this update. Only ground spawns are possbile now. - We changed that due to the halo speed expolits which are not really fixable. Another reason is that dead players will be always back after a very short time and a won fight can turned into a loss again. This is not how it should work and it can be massively frustrating, especially for new players.
-
+[Added] M4A1 CCO Camo and M4A1 Holo Tarn can be used with the Attachment System now.
+[Changed] The Halo Spawn will be removed with this update. Only ground spawns are possbile now. - We changed that due to the halo speed exploits which are not really fixable. Another reason is that dead players will be always back after a very short time and a won fight can turned into a loss again. This is not how it should work and it can be massively frustrating, especially for new players.
+[Changed] Increasing the buy price of safes from 100.000 Coins to 150.000 Coins.
+[Changed] Increasing the buy price of lockboxes from 20.000 Coins to 50.000 Coins.
