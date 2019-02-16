@@ -1,0 +1,4 @@
+Over9000 Panthera Server Version: 1.60
+
+[Changed] The Halo Spawn will be removed with this update. Only ground spawns are possbile now. - We changed that due to the halo speed expolits which are not really fixable. Another reason is that dead players will be always back after a very short time and a won fight can turned into a loss again. This is not how it should work and it can be massively frustrating, especially for new players.
+
