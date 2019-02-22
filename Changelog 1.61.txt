@@ -1,0 +1,4 @@
+Over9000 Panthera Server Version: 1.61
+
+[Fixed] Zombies will no longer spawn endless at a Heli Crash Site.
+[Fixed] Removing an artillery nest was sometimes not possible. You can remove it by a rightclick on the toolbox now.
