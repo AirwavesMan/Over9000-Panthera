@@ -1,5 +1,6 @@
 Over9000 Panthera Server Version: 1.61
 
+[Added] Missing SVD versions without scope to loot and traders - thx @Samy.
 [Changes] Increased XP chance while finding loot with the sonar boat at the ship cemetery.
 [Changes] Finding Cortés treasure gives the player 1 XP point now .
 [Changes] When PVE Mode is enabled, the body check in the spawn menu is disabled.
