@@ -1,6 +1,7 @@
 Over9000 Panthera Server Version: 1.61
 
 [Added] Missing SVD versions without scope to loot and traders - thx @Samy.
+[Added] The AK-107 were added to the loot, to traders and to the Attachment-System.
 [Changes] Increased XP chance while finding loot with the sonar boat at the ship cemetery.
 [Changes] Finding Cortés treasure gives the player 1 XP point now .
 [Changes] When PVE Mode is enabled, the body check in the spawn menu is disabled.
@@ -9,7 +10,9 @@ Over9000 Panthera Server Version: 1.61
 [Changes] Unlocking a door is only possible if the player is in the plot pole now. This change removes the door management because it is no longer needed. You need no code.
 [Changes] The Plot Management shows the possible build height now.
 [Changes] The journal information were reworked.
+[Changes] Advanced Crafting buildables have vector building now.
 [Removed] Spawnpoint Vatra
 [Fixed] Zombies will no longer spawn endless at a Heli Crash Site.
 [Fixed] Removing an artillery nest was sometimes not possible. You can remove it by a rightclick on the toolbox now.
 [Fixed] Some player were unable to open a door if their plot level was lower as the plot level of the player who built that door - thx @Samy.
+[Fixed] Convoy AIs have ignored sometimes an attacking player if the AIs ejected from the vehicle already.
