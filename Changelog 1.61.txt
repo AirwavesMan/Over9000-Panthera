@@ -2,6 +2,10 @@ Over9000 Panthera Server Version: 1.61
 
 [Added] Missing SVD versions without scope to loot and traders - thx @Samy.
 [Added] The AK-107 were added to the loot, to traders and to the Attachment-System.
+[Added] Complete new Lift and Tow System
+		- Some vehicles will no longer stick into each other while lifting.
+		- Small helicopter can lift small cars like sedan or golf now.
+		- Small cars can no longer tow vehicles.
 [Changes] Increased XP chance while finding loot with the sonar boat at the ship cemetery.
 [Changes] Finding Cortés treasure gives the player 1 XP point now .
 [Changes] When PVE Mode is enabled, the body check in the spawn menu is disabled.
@@ -11,8 +15,12 @@ Over9000 Panthera Server Version: 1.61
 [Changes] The Plot Management shows the possible build height now.
 [Changes] The journal information were reworked.
 [Changes] Advanced Crafting buildables have vector building now.
+[Changes] To craft a cinder block you need 10 stones now, no longer 6.
+[Changes] Crafting cinder blocks, tobacco, cigarettes and combining cigarettes supporting Craft in Shed now.
 [Removed] Spawnpoint Vatra
 [Fixed] Zombies will no longer spawn endless at a Heli Crash Site.
 [Fixed] Removing an artillery nest was sometimes not possible. You can remove it by a rightclick on the toolbox now.
 [Fixed] Some player were unable to open a door if their plot level was lower as the plot level of the player who built that door - thx @Samy.
 [Fixed] Convoy AIs have ignored sometimes an attacking player if the AIs ejected from the vehicle already.
+[Fixed] Wrong fail chance for turning off the Bank Alarm for bandits. 
+[Fixed] AI-Mission Supply Drop - the marker of this AI-Mission was sometimes for new or dead players not visible. 
