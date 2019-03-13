@@ -1,11 +1,17 @@
 Over9000 Panthera Server Version: 1.61
 
+Note: We have done lots of code optimizations in this update. Please give us a hint if you noticed something weird. 
+
 [Added] Missing SVD versions without scope to loot and traders - thx @Samy.
 [Added] The AK-107 were added to the loot, to traders and to the Attachment-System.
 [Added] Complete new Lift and Tow System
-		- Some vehicles will no longer stick into each other while lifting.
+		- Lifted vehicles will be attached correctly under the lifting vehicle.
 		- Small helicopter can lift small cars like sedan or golf now.
-		- Small cars can no longer tow vehicles.
+		- Small cars can no longer tow other vehicles.
+		- Towing works different now - you need to go to the towing vehicle to tow a vehicle next the to towing vehicle.
+		- Lifting and towing need a free area now. Lift, detach, tow or untow through walls is not longer possible.
+		- Most towed vehicles should no longer glitch into the ground if attached to the towing vehicle.
+[Added] Missing toolbox check while smelting ores.		
 [Changes] Increased XP chance while finding loot with the sonar boat at the ship cemetery.
 [Changes] Finding Cortés treasure gives the player 1 XP point now .
 [Changes] When PVE Mode is enabled, the body check in the spawn menu is disabled.
@@ -24,3 +30,6 @@ Over9000 Panthera Server Version: 1.61
 [Fixed] Convoy AIs have ignored sometimes an attacking player if the AIs ejected from the vehicle already.
 [Fixed] Wrong fail chance for turning off the Bank Alarm for bandits. 
 [Fixed] AI-Mission Supply Drop - the marker of this AI-Mission was sometimes for new or dead players not visible. 
+[Fixed] No loot and zombie spawn in Vatra or Metto. 
+[Fixed] Sometimes loot spawns in the air while recyling a backpack or drilling open a safe. 
+[Fixed] Second primary weapon duped sometimes after logout.
