@@ -6,12 +6,15 @@ Note: We have done lots of code optimizations in this update. Please give us a h
 [Added] The AK-107 were added to the loot, to traders and to the Attachment-System.
 [Added] Complete new Lift and Tow System
 		- Lifted vehicles will be attached correctly under the lifting vehicle.
-		- Small helicopter can lift small cars like sedan or golf now.
+		- Small helicopters can lift small cars like sedan or golf now.
 		- Small cars can no longer tow other vehicles.
 		- Towing works different now - you need to go to the towing vehicle to tow a vehicle next the to towing vehicle.
 		- Lifting and towing need a free area now. Lift, detach, tow or untow through walls is not longer possible.
 		- Most towed vehicles should no longer glitch into the ground if attached to the towing vehicle.
+		- Getting in a locked towed vehicle result in relocating and teleporting to a new position.
+		- Towed vehicles can no longer be unlocked with the vehicle key.
 [Added] Missing toolbox check while smelting ores.		
+[Added] Small information about the forger and the highest level in the Info Menu.		
 [Changes] Increased XP chance while finding loot with the sonar boat at the ship cemetery.
 [Changes] Finding Cortés treasure gives the player 1 XP point now .
 [Changes] When PVE Mode is enabled, the body check in the spawn menu is disabled.
@@ -23,6 +26,8 @@ Note: We have done lots of code optimizations in this update. Please give us a h
 [Changes] Advanced Crafting buildables have vector building now.
 [Changes] To craft a cinder block you need 10 stones now, no longer 6.
 [Changes] Crafting cinder blocks, tobacco, cigarettes and combining cigarettes supporting Craft in Shed now.
+[Changes] Radio Check has a 30s cooldown now.
+[Changes] Craft in shed sets the crafted shed busy now so if cannot be used by someone else. The annoying player check was removed.
 [Removed] Spawnpoint Vatra
 [Fixed] Zombies will no longer spawn endless at a Heli Crash Site.
 [Fixed] Removing an artillery nest was sometimes not possible. You can remove it by a rightclick on the toolbox now.
@@ -33,3 +38,4 @@ Note: We have done lots of code optimizations in this update. Please give us a h
 [Fixed] No loot and zombie spawn in Vatra or Metto. 
 [Fixed] Sometimes loot spawns in the air while recyling a backpack or drilling open a safe. 
 [Fixed] Second primary weapon duped sometimes after logout.
+[Fixed] Radio Check was not working sometimes.
