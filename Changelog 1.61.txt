@@ -14,7 +14,8 @@ Note: We have done lots of code optimizations in this update. Please give us a h
 		- Getting in a locked towed vehicle result in relocating and teleporting to a new position.
 		- Towed vehicles can no longer be unlocked with the vehicle key.
 [Added] Missing toolbox check while smelting ores.		
-[Added] Small information about the forger and the highest level in the Info Menu.		
+[Added] Small information about the forger and the highest level in the Info Menu.	
+[Added] All Loot Missions have a localization now.		
 [Changes] Increased XP chance while finding loot with the sonar boat at the ship cemetery.
 [Changes] Finding Cortés treasure gives the player 1 XP point now .
 [Changes] When PVE Mode is enabled, the body check in the spawn menu is disabled.
@@ -28,6 +29,7 @@ Note: We have done lots of code optimizations in this update. Please give us a h
 [Changes] Crafting cinder blocks, tobacco, cigarettes and combining cigarettes supporting Craft in Shed now.
 [Changes] Radio Check has a 30s cooldown now.
 [Changes] Craft in shed sets the crafted shed busy now so if cannot be used by someone else. The annoying player check was removed.
+[Changes] The MG36 magazine can longer be bought at normal traders and were added to Hero and Bandit.
 [Removed] Spawnpoint Vatra
 [Fixed] Zombies will no longer spawn endless at a Heli Crash Site.
 [Fixed] Removing an artillery nest was sometimes not possible. You can remove it by a rightclick on the toolbox now.
@@ -35,7 +37,8 @@ Note: We have done lots of code optimizations in this update. Please give us a h
 [Fixed] Convoy AIs have ignored sometimes an attacking player if the AIs ejected from the vehicle already.
 [Fixed] Wrong fail chance for turning off the Bank Alarm for bandits. 
 [Fixed] AI-Mission Supply Drop - the marker of this AI-Mission was sometimes for new or dead players not visible. 
-[Fixed] No loot and zombie spawn in Vatra or Metto. 
-[Fixed] Sometimes loot spawns in the air while recyling a backpack or drilling open a safe. 
+[Fixed] No loot and zombie spawn in Vatra or Mello. 
+[Fixed] Sometimes loot spawns in the air while recycling a backpack or drilling open a safe. 
 [Fixed] Second primary weapon duped sometimes after logout.
 [Fixed] Radio Check was not working sometimes.
+[Fixed] Rejoined or new players could not see the loot mission markers like the Military Crate.
