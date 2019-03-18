@@ -30,7 +30,11 @@ Note: We have done lots of code optimizations in this update. Please give us a h
 [Changes] Radio Check has a 30s cooldown now.
 [Changes] Craft in shed sets the crafted shed busy now so if cannot be used by someone else. The annoying player check was removed.
 [Changes] The MG36 magazine can longer be bought at normal traders and were added to Hero and Bandit.
+[Changes] The Loot Mission messages have a new style and a new sound now.
+[Changes] Virtual Garage vehicles can spawn on roofs now.
 [Removed] Spawnpoint Vatra
+[Replaced] Old heli pads with the new one which allow vehicle spawing over the ground. 
+[Replaced] Red Rider BB guns were replaced with the Bizon SD. The Red Rider BB gun has a new purpose now. 
 [Fixed] Zombies will no longer spawn endless at a Heli Crash Site.
 [Fixed] Removing an artillery nest was sometimes not possible. You can remove it by a rightclick on the toolbox now.
 [Fixed] Some player were unable to open a door if their plot level was lower as the plot level of the player who built that door - thx @Samy.
@@ -42,3 +46,5 @@ Note: We have done lots of code optimizations in this update. Please give us a h
 [Fixed] Second primary weapon duped sometimes after logout.
 [Fixed] Radio Check was not working sometimes.
 [Fixed] Rejoined or new players could not see the loot mission markers like the Military Crate.
+[Fixed] The AI-Mission markers could not be seen from spawn menu.
+[Fixed] Sliding on roofs after cuting the parachute.
