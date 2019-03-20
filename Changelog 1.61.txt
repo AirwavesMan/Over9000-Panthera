@@ -2,6 +2,13 @@ Over9000 Panthera Server Version: 1.61
 
 Note: We have done lots of code optimizations in this update. Please give us a hint if you noticed something weird. 
 
+[Added] Sector A in Vatra
+		- The Sector has many hard MGs and AI groups - move after you have killed an enemy.
+		- The Sector is not desgined to get finished by a one man army, work together.
+		- Over the Sector you can find crates with loot at random positions.
+		- The combat timer in Sector A will never be resetted, always in combat as long as you fight there.
+		- Anti logout system for the whole Sector area.
+		- No zombies and no loot spawns in Sector A.
 [Added] Missing SVD versions without scope to loot and traders - thx @Samy.
 [Added] The AK-107 were added to the loot, to traders and to the Attachment-System.
 [Added] Complete new Lift and Tow System
@@ -32,6 +39,7 @@ Note: We have done lots of code optimizations in this update. Please give us a h
 [Changes] The MG36 magazine can longer be bought at normal traders and were added to Hero and Bandit.
 [Changes] The Loot Mission messages have a new style and a new sound now.
 [Changes] Virtual Garage vehicles can spawn on roofs now.
+[Changes] Almost all global event messages are localized in english and german now.
 [Removed] Spawnpoint Vatra
 [Replaced] Old heli pads with the new one which allow vehicle spawing over the ground. 
 [Replaced] Red Rider BB guns were replaced with the Bizon SD. The Red Rider BB gun has a new purpose now. 
@@ -48,3 +56,4 @@ Note: We have done lots of code optimizations in this update. Please give us a h
 [Fixed] Rejoined or new players could not see the loot mission markers like the Military Crate.
 [Fixed] The AI-Mission markers could not be seen from spawn menu.
 [Fixed] Sliding on roofs after cuting the parachute.
+[Fixed] Loot Mission Air Drop: The dropped crate from an UH1, Mi-17 and CH-47 was not the same crate model with gear on the ground.
