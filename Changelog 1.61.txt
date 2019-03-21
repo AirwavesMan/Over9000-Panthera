@@ -3,12 +3,14 @@ Over9000 Panthera Server Version: 1.61
 Note: We have done lots of code optimizations in this update. Please give us a hint if you noticed something weird. 
 
 [Added] Sector A in Vatra
+		- The Sector and the Central Bank are Server Events now. The Sector has a 66% chance to spawn and the Central Bank a 33% chance each restart. Only one of the events can spawn. Unfortunately the server cannot hold both events.
 		- The Sector has many hard MGs and AI groups - move after you have killed an enemy.
 		- The Sector is not desgined to get finished by a one man army, work together.
-		- Over the Sector you can find crates with loot at random positions.
+		- In the Sector you can find crates with loot at random positions.
 		- The combat timer in Sector A will never be resetted, always in combat as long as you fight there.
 		- Anti logout system for the whole Sector area.
-		- No zombies and no loot spawns in Sector A.
+		- No zombies and no loot spawn in Sector A.
+		- Sector AIs are not lootable and will be cleared after death.
 [Added] Missing SVD versions without scope to loot and traders - thx @Samy.
 [Added] The AK-107 were added to the loot, to traders and to the Attachment-System.
 [Added] Complete new Lift and Tow System
@@ -22,9 +24,11 @@ Note: We have done lots of code optimizations in this update. Please give us a h
 		- Towed vehicles can no longer be unlocked with the vehicle key.
 [Added] Missing toolbox check while smelting ores.		
 [Added] Small information about the forger and the highest level in the Info Menu.	
-[Added] All Loot Missions have a localization now.		
+[Added] All Loot Missions have a localization now.
+[Added] 2 extra possible vaults were added to the Central Bank.		
+[Added] The Central Bank quick respond team has 2 more different spawn points now and has a smoke grenade at spawn.
 [Changes] Increased XP chance while finding loot with the sonar boat at the ship cemetery.
-[Changes] Finding Cortés treasure gives the player 1 XP point now .
+[Changes] Finding Cortés treasure gives the player 1 XP point now.
 [Changes] When PVE Mode is enabled, the body check in the spawn menu is disabled.
 [Changes] Examining documents will drop the found item on the ground now.
 [Changes] Examine documents has more different items now.
@@ -40,6 +44,9 @@ Note: We have done lots of code optimizations in this update. Please give us a h
 [Changes] The Loot Mission messages have a new style and a new sound now.
 [Changes] Virtual Garage vehicles can spawn on roofs now.
 [Changes] Almost all global event messages are localized in english and german now.
+[Changes] The police forces at the Central Bank spawn in groups now.
+[Changes] The Central Bank can be started with over 10 players no longer over 15 players.
+[Changes] The english localization got a big overhaul - thx @Kroc.
 [Removed] Spawnpoint Vatra
 [Replaced] Old heli pads with the new one which allow vehicle spawing over the ground. 
 [Replaced] Red Rider BB guns were replaced with the Bizon SD. The Red Rider BB gun has a new purpose now. 
@@ -57,3 +64,5 @@ Note: We have done lots of code optimizations in this update. Please give us a h
 [Fixed] The AI-Mission markers could not be seen from spawn menu.
 [Fixed] Sliding on roofs after cuting the parachute.
 [Fixed] Loot Mission Air Drop: The dropped crate from an UH1, Mi-17 and CH-47 was not the same crate model with gear on the ground.
+[Fixed] Target finding of police forces at the Central Bank. An entry was missing. Police forces will be harder now.
+[Fixed] Convoy AIs could not be overrun.
