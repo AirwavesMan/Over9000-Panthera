@@ -66,3 +66,4 @@ Note: We have done lots of code optimizations in this update. Please give us a h
 [Fixed] Loot Mission Air Drop: The dropped crate from an UH1, Mi-17 and CH-47 was not the same crate model with gear on the ground.
 [Fixed] Target finding of police forces at the Central Bank. An entry was missing. Police forces will be harder now.
 [Fixed] Convoy AIs could not be overrun.
+[Fixed] Gutting Zombies got not affected by the gut Zombie Perks - thx @Zatoichi.
