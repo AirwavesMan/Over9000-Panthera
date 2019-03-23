@@ -27,6 +27,7 @@ Note: We have done lots of code optimizations in this update. Please give us a h
 [Added] All Loot Missions have a localization now.
 [Added] 2 extra possible vaults were added to the Central Bank.		
 [Added] The Central Bank quick respond team has 2 more different spawn points now and has a smoke grenade at spawn.
+[Added] Attach and detach weapon attachments has a sound now.		
 [Changes] Increased XP chance while finding loot with the sonar boat at the ship cemetery.
 [Changes] Finding Cortés treasure gives the player 1 XP point now.
 [Changes] When PVE Mode is enabled, the body check in the spawn menu is disabled.
@@ -47,6 +48,7 @@ Note: We have done lots of code optimizations in this update. Please give us a h
 [Changes] The police forces at the Central Bank spawn in groups now.
 [Changes] The Central Bank can be started with over 10 players no longer over 15 players.
 [Changes] The english localization got a big overhaul - thx @Kroc.
+[Changes] Taking painkillers or antibiotics has more sounds now.
 [Removed] Spawnpoint Vatra
 [Replaced] Old heli pads with the new one which allow vehicle spawing over the ground. 
 [Replaced] Red Rider BB guns were replaced with the Bizon SD. The Red Rider BB gun has a new purpose now. 
@@ -67,3 +69,4 @@ Note: We have done lots of code optimizations in this update. Please give us a h
 [Fixed] Target finding of police forces at the Central Bank. An entry was missing. Police forces will be harder now.
 [Fixed] Convoy AIs could not be overrun.
 [Fixed] Gutting Zombies got not affected by the gut Zombie Perks - thx @Zatoichi.
+[Fixed] Bridges at the Black Market.
