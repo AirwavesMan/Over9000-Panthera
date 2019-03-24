@@ -27,13 +27,13 @@ Note: We have done lots of code optimizations in this update. Please give us a h
 [Added] All Loot Missions have a localization now.
 [Added] 2 extra possible vaults were added to the Central Bank.		
 [Added] The Central Bank quick respond team has 2 more different spawn points now and has a smoke grenade at spawn.
-[Added] Attach and detach weapon attachments has a sound now.	
+[Added] Attach, detach weapon attachments, open, close vaults and lockboxes has a sound now.	
 [Added] Reading books and documents.	
 		- New added books and documents from Dr. Ivan can be read now.
-		- Different documents and books granting different things, like XP, Perks, Bluerpints, Information or nothing.
+		- Different documents and books granting different things like XP, Perks, Bluerpints, Information or nothing.
 		- Reading takes some time. We added a reading indiactor next to the eye symbole in the GUI.
-		- If reading was finished, the document or the book will be deleted. You play normaly while reading. 
-		- The reading time has fixed plus a random value.
+		- If reading was finished, the document or the book will be deleted. You can play normally while reading. 
+		- The reading time has a fixed plus a random value.
 [Changes] Increased XP chance while finding loot with the sonar boat at the ship cemetery.
 [Changes] Finding Cortés treasure gives the player 1 XP point now.
 [Changes] When PVE Mode is enabled, the body check in the spawn menu is disabled.
@@ -46,7 +46,7 @@ Note: We have done lots of code optimizations in this update. Please give us a h
 [Changes] To craft a cinder block you need 10 stones now, no longer 6.
 [Changes] Crafting cinder blocks, tobacco, cigarettes and combining cigarettes supporting Craft in Shed now.
 [Changes] Radio Check has a 30s cooldown now.
-[Changes] Craft in shed sets the crafted shed busy now so if cannot be used by someone else. The annoying player check was removed.
+[Changes] Craft in shed sets the crafted shed busy now so it cannot be used by someone else. The annoying player check was removed.
 [Changes] The MG36 magazine can longer be bought at normal traders and were added to Hero and Bandit.
 [Changes] The Loot Mission messages have a new style and a new sound now.
 [Changes] Virtual Garage vehicles can spawn on roofs now.
