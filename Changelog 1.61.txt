@@ -27,7 +27,13 @@ Note: We have done lots of code optimizations in this update. Please give us a h
 [Added] All Loot Missions have a localization now.
 [Added] 2 extra possible vaults were added to the Central Bank.		
 [Added] The Central Bank quick respond team has 2 more different spawn points now and has a smoke grenade at spawn.
-[Added] Attach and detach weapon attachments has a sound now.		
+[Added] Attach and detach weapon attachments has a sound now.	
+[Added] Reading books and documents.	
+		- New added books and documents from Dr. Ivan can be read now.
+		- Different documents and books granting different things, like XP, Perks, Bluerpints, Information or nothing.
+		- Reading takes some time. We added a reading indiactor next to the eye symbole in the GUI.
+		- If reading was finished, the document or the book will be deleted. You play normaly while reading. 
+		- The reading time has fixed plus a random value.
 [Changes] Increased XP chance while finding loot with the sonar boat at the ship cemetery.
 [Changes] Finding Cortés treasure gives the player 1 XP point now.
 [Changes] When PVE Mode is enabled, the body check in the spawn menu is disabled.
