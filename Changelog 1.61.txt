@@ -1,78 +1,91 @@
 Over9000 Panthera Server Version: 1.61
 
-Note: We have done lots of code optimizations in this update. Please give us a hint if you noticed something weird. 
+Note: We have done lots of code optimizations in this update. Please give us a hint if you noticed something weird.
 
 [Added] Sector A in Vatra
 		- The Sector and the Central Bank are Server Events now. The Sector has a 66% chance to spawn and the Central Bank a 33% chance each restart. Only one of the events can spawn. Unfortunately the server cannot hold both events.
 		- The Sector has many hard MGs and AI groups - move after you have killed an enemy.
-		- The Sector is not desgined to get finished by a one man army, work together.
+		- The Sector is not designed to get finished by a one man army, work together as a team.
 		- In the Sector you can find crates with loot at random positions.
-		- The combat timer in Sector A will never be resetted, always in combat as long as you fight there.
+		- The combat timer in Sector A will never reset, you are always in combat as long as you fight there.
 		- Anti logout system for the whole Sector area.
 		- No zombies and no loot spawn in Sector A.
 		- Sector AIs are not lootable and will be cleared after death.
 [Added] Missing SVD versions without scope to loot and traders - thx @Samy.
-[Added] The AK-107 were added to the loot, to traders and to the Attachment-System.
+[Added] The AK-107 were added to the loot, to traders, and to the Attachment-System.
 [Added] Complete new Lift and Tow System
 		- Lifted vehicles will be attached correctly under the lifting vehicle.
-		- Small helicopters can lift small cars like sedan or golf now.
+		- Small helicopters can lift small cars like sedan's or golf's now.
 		- Small cars can no longer tow other vehicles.
-		- Towing works different now - you need to go to the towing vehicle to tow a vehicle next the to towing vehicle.
-		- Lifting and towing need a free area now. Lift, detach, tow or untow through walls is not longer possible.
+		- Towing works differently now - you need to go to the towing vehicle to tow a vehicle next to the towing vehicle.
+		- Lifting and towing need an open space area now. Lift, detach, tow, or untow through walls is not longer possible.
 		- Most towed vehicles should no longer glitch into the ground if attached to the towing vehicle.
-		- Getting in a locked towed vehicle result in relocating and teleporting to a new position.
+		- Getting in a locked towed vehicle will result in relocating and teleporting to a new position.
 		- Towed vehicles can no longer be unlocked with the vehicle key.
 [Added] Missing toolbox check while smelting ores.		
 [Added] Small information about the forger and the highest level in the Info Menu.	
-[Added] All Loot Missions have a localization now.
+[Added] All Loot Missions have a german localization now.
 [Added] 2 extra possible vaults were added to the Central Bank.		
-[Added] The Central Bank quick respond team has 2 more different spawn points now and has a smoke grenade at spawn.
-[Added] Attach, detach weapon attachments, open, close vaults and lockboxes has a sound now.	
+[Added] The Central Bank quick response team has 2 extra spawn points now, and has a smoke grenade at spawn.
+[Added] The Central Bank has a small construction site on to the rear now.
+[Added] A small vault room was added to the Central Bank - more information in the Info Menu.
+[Added] Sounds have been added for Attaching and detaching weapon attachments, opening and closing vaults and lockboxes. 	
 [Added] Reading books and documents.	
 		- New added books and documents from Dr. Ivan can be read now.
-		- Different documents and books granting different things like XP, Perks, Bluerpints, Information or nothing.
-		- Reading takes some time. We added a reading indiactor next to the eye symbole in the GUI.
-		- If reading was finished, the document or the book will be deleted. You can play normally while reading. 
+		- Different documents and books grant different things like XP, Perks, Blueprints, Information, or nothing.
+		- Reading takes some time. We added a reading indicator next to the eye symbol in the GUI.
+		- Once you have finished reading the document or the book will be deleted. You can continue to play while reading. 
 		- The reading time has a fixed plus a random value.
+[Added] Recycling backpack has a second sound now.
+[Added] Examining zombies has a sound now, and there is a small chance to find the position of a hidden stash.		
+[Added] Checking bodies for coins has a sound now.		
+[Added] Wood Piles can be sold at the Building Trader now.		
+[Added] If the player is unconscious the status UI is not visible.	
+[Changes] Chopping wood with a hatchet now produces wooden logs not wood piles.
+[Changes] Wooden logs can be crafted to wood piles and support Craft in Shed.
+[Changes] Wood Logs can no longer be bought and the sale price was lowered from 1.000 Coins to 500 Coins.
 [Changes] Increased XP chance while finding loot with the sonar boat at the ship cemetery.
 [Changes] Finding Cortés treasure gives the player 1 XP point now.
 [Changes] When PVE Mode is enabled, the body check in the spawn menu is disabled.
 [Changes] Examining documents will drop the found item on the ground now.
-[Changes] Examine documents has more different items now.
-[Changes] Unlocking a door is only possible if the player is in the plot pole now. This change removes the door management because it is no longer needed. You need no code.
-[Changes] The Plot Management shows the possible build height now.
-[Changes] The journal information were reworked.
+[Changes] Examine documents has a wider variety of items now.
+[Changes] Unlocking a door is only possible if the player is on the plot pole. This change removes the door management because it is no longer needed. You don't need a code.
+[Changes] The Plot Management shows the maximum build height now.
+[Changes] The journal information has been reworked.
 [Changes] Advanced Crafting buildables have vector building now.
-[Changes] To craft a cinder block you need 10 stones now, no longer 6.
-[Changes] Crafting cinder blocks, tobacco, cigarettes and combining cigarettes supporting Craft in Shed now.
-[Changes] Radio Check has a 30s cooldown now.
+[Changes] To craft a cinder block you need 10 stones now not 6.
+[Changes] Crafting cinder blocks, tobacco, cigarettes, and combining cigarettes supporting Craft in Shed now.
+[Changes] Radio Check now has a 30s cooldown.
 [Changes] Craft in shed sets the crafted shed busy now so it cannot be used by someone else. The annoying player check was removed.
-[Changes] The MG36 magazine can longer be bought at normal traders and were added to Hero and Bandit.
+[Changes] The MG36 magazine can no longer be bought at normal traders and has been added to Hero and Bandit traders.
 [Changes] The Loot Mission messages have a new style and a new sound now.
-[Changes] Virtual Garage vehicles can spawn on roofs now.
-[Changes] Almost all global event messages are localized in english and german now.
-[Changes] The police forces at the Central Bank spawn in groups now.
+[Changes] Virtual Garage vehicles can now spawn on base rooftops.
+[Changes] Almost all global event messages are localized in English and German now.
+[Changes] The police forces at the Central Bank now spawn in groups.
 [Changes] The Central Bank can be started with over 10 players no longer over 15 players.
-[Changes] The english localization got a big overhaul - thx @Kroc.
+[Changes] The English localization got a big overhaul - thx @Kroc. 
 [Changes] Taking painkillers or antibiotics has more sounds now.
-[Removed] Spawnpoint Vatra
-[Replaced] Old heli pads with the new one which allow vehicle spawing over the ground. 
+[Removed] Spawnpoint added at Vatra
+[Replaced] Old helipads will be replaced with new ones to allow vehicle spawning above ground level i.e rooftops. 
 [Replaced] Red Rider BB guns were replaced with the Bizon SD. The Red Rider BB gun has a new purpose now. 
-[Fixed] Zombies will no longer spawn endless at a Heli Crash Site.
-[Fixed] Removing an artillery nest was sometimes not possible. You can remove it by a rightclick on the toolbox now.
-[Fixed] Some player were unable to open a door if their plot level was lower as the plot level of the player who built that door - thx @Samy.
+[Fixed] Zombies will no longer spawn infinitely at a Heli Crash Site.
+[Fixed] Removing an artillery nest was sometimes not possible. You can remove it now by a right clicking your toolbox.
+[Fixed] Some players were unable to open a door if their plot level was lower than the plot level of the player who built that door - thx @Samy.
 [Fixed] Convoy AIs have ignored sometimes an attacking player if the AIs ejected from the vehicle already.
 [Fixed] Wrong fail chance for turning off the Bank Alarm for bandits. 
-[Fixed] AI-Mission Supply Drop - the marker of this AI-Mission was sometimes for new or dead players not visible. 
-[Fixed] No loot and zombie spawn in Vatra or Mello. 
+[Fixed] AI-Mission Supply Drop - the marker of this AI-Mission was sometimes invisible for new or dead players. 
+[Fixed] No loot or zombie spawn in Vatra or Mello. 
 [Fixed] Sometimes loot spawns in the air while recycling a backpack or drilling open a safe. 
 [Fixed] Second primary weapon duped sometimes after logout.
-[Fixed] Radio Check was not working sometimes.
+[Fixed] Radio Check was sometimes not working.
 [Fixed] Rejoined or new players could not see the loot mission markers like the Military Crate.
-[Fixed] The AI-Mission markers could not be seen from spawn menu.
-[Fixed] Sliding on roofs after cuting the parachute.
-[Fixed] Loot Mission Air Drop: The dropped crate from an UH1, Mi-17 and CH-47 was not the same crate model with gear on the ground.
+[Fixed] The AI-Mission markers could not be seen from the spawn menu.
+[Fixed] Sliding on roofs after cutting the parachute.
+[Fixed] Loot Mission Air Drop: The dropped crate from an UH1, Mi-17, and CH-47 was not the same crate model with gear on the ground.
 [Fixed] Target finding of police forces at the Central Bank. An entry was missing. Police forces will be harder now.
 [Fixed] Convoy AIs could not be overrun.
-[Fixed] Gutting Zombies got not affected by the gut Zombie Perks - thx @Zatoichi.
+[Fixed] The Gut Zombie perks were not working correctly when gutting Zombies - thx @Zatoichi.
 [Fixed] Bridges at the Black Market.
+[Fixed] AI-Mission Civil Helicopter had the wrong name and was marked as Holy Assault.
+[Fixed] AI-Mission Counter resets if the AI-Mission was cleared from inside a vehicle - thx @Makaveli.
+[Fixed] Killing AIs or Zombies from inside a vehicle still displayed wrongly gained RP or XP. There was never a RP or XP gain if you were inside a vehicle, so we have removed the displayed indicator for killing inside a vehicle. This affects only Zombie and AI kills.
