@@ -41,31 +41,31 @@ Note: We have done lots of code optimizations in this update. Please give us a h
 [Added] Checking bodies for coins has a sound now.		
 [Added] Wood Piles can be sold at the Building Trader now.		
 [Added] If the player is unconscious the status UI is not visible.	
-[Changes] Chopping wood with a hatchet now produces wooden logs not wood piles.
-[Changes] Wooden logs can be crafted to wood piles and support Craft in Shed.
-[Changes] Wood Logs can no longer be bought and the sale price was lowered from 1.000 Coins to 500 Coins.
-[Changes] Increased XP chance while finding loot with the sonar boat at the ship cemetery.
-[Changes] Finding Cortés treasure gives the player 1 XP point now.
-[Changes] When PVE Mode is enabled, the body check in the spawn menu is disabled.
-[Changes] Examining documents will drop the found item on the ground now.
-[Changes] Examine documents has a wider variety of items now.
-[Changes] Unlocking a door is only possible if the player is on the plot pole. This change removes the door management because it is no longer needed. You don't need a code.
-[Changes] The Plot Management shows the maximum build height now.
-[Changes] The journal information has been reworked.
-[Changes] Advanced Crafting buildables have vector building now.
-[Changes] To craft a cinder block you need 10 stones now not 6.
-[Changes] Crafting cinder blocks, tobacco, cigarettes, and combining cigarettes supporting Craft in Shed now.
-[Changes] Radio Check now has a 30s cooldown.
-[Changes] Craft in shed sets the crafted shed busy now so it cannot be used by someone else. The annoying player check was removed.
-[Changes] The MG36 magazine can no longer be bought at normal traders and has been added to Hero and Bandit traders.
-[Changes] The Loot Mission messages have a new style and a new sound now.
-[Changes] Virtual Garage vehicles can now spawn on base rooftops.
-[Changes] Almost all global event messages are localized in English and German now.
-[Changes] The police forces at the Central Bank now spawn in groups.
-[Changes] The Central Bank can be started with over 10 players no longer over 15 players.
-[Changes] The English localization got a big overhaul - thx @Kroc. 
-[Changes] Taking painkillers or antibiotics has more sounds now.
-[Removed] Spawnpoint added at Vatra
+[Changed] Chopping wood with a hatchet now produces wooden logs not wood piles.
+[Changed] Wooden logs can be crafted to wood piles and support Craft in Shed.
+[Changed] Wood Logs can no longer be bought and the sale price was lowered from 1.000 Coins to 500 Coins.
+[Changed] Increased XP chance while finding loot with the sonar boat at the ship cemetery.
+[Changed] Finding Cortés treasure gives the player 1 XP point now.
+[Changed] When PVE Mode is enabled, the body check in the spawn menu is disabled.
+[Changed] Examining documents will drop the found item on the ground now.
+[Changed] Examine documents has a wider variety of items now.
+[Changed] Unlocking a door is only possible if the player is on the plot pole. This change removes the door management because it is no longer needed. You don't need a code.
+[Changed] The Plot Management shows the maximum build height now.
+[Changed] The journal information has been reworked.
+[Changed] Advanced Crafting buildables have vector building now.
+[Changed] To craft a cinder block you need 10 stones now not 6.
+[Changed] Crafting cinder blocks, tobacco, cigarettes, and combining cigarettes supporting Craft in Shed now.
+[Changed] Radio Check now has a 30s cooldown.
+[Changed] Craft in shed sets the crafted shed busy now so it cannot be used by someone else. The annoying player check was removed.
+[Changed] The MG36 magazine can no longer be bought at normal traders and has been added to Hero and Bandit traders.
+[Changed] The Loot Mission messages have a new style and a new sound now.
+[Changed] Virtual Garage vehicles can now spawn on base rooftops.
+[Changed] Almost all global event messages are localized in English and German now.
+[Changed] The police forces at the Central Bank now spawn in groups.
+[Changed] The Central Bank can be started with over 10 players no longer over 15 players.
+[Changed] The English localization got a big overhaul - thx @Kroc. 
+[Changed] Taking painkillers or antibiotics has more sounds now.
+[Removed] Spawnpoint at Vatra.
 [Replaced] Old helipads will be replaced with new ones to allow vehicle spawning above ground level i.e rooftops. 
 [Replaced] Red Rider BB guns were replaced with the Bizon SD. The Red Rider BB gun has a new purpose now. 
 [Fixed] Zombies will no longer spawn infinitely at a Heli Crash Site.
