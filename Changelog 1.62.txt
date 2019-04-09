@@ -1,10 +1,21 @@
 Over9000 Panthera Server Version: 1.62
 
+[Added] Tank traps can be crafted now. You need 3 scrap metal to craft 1 tank trap. This supports craft in shed.
+[Added] AI-Missions have more usable vehicles now.
+[Added] Players getting  directly after login a message in the chat if they combat logged last time.
+[Changed] Sector AIs and MGs have body armor now.
 [Changed] Increased chance to find C4 Charges in the loot.
+[Changed] Teleporting out of the Central Bank will only happen if the Central Bank event is active.
+[Changed] Combat log punishment at the Central Bank will only fire if the Bank Robbery was active at the restart when the player logged off.
+[Changed] Military loot got an update. This should change the quality of the loot in a better way.
+[Fixed] Body armor for Mercenaries and Military AIs (including Convoys) was not working correctly - be careful now.
 
 Changes live already:
 
+[Added] Indicator in chat what you have got from reading books.
 [Changed] You can craft ores with a right-click now and crafting ores has support for craft in shed now.
+[Changed] Vehicles at Black Market will be cleared after restart.
+[Changed] Killing Sector AIs grants more RP now.
 [Fixed] Sometimes traders could be punshed to death - thx @ *OSS*Rumpy.
 [Fixed] The Camo MTVR could not tow.
 [Fixed] After locking a towing vehicle which had a vehicle towed, the towing vehicle could not be opened with a key again.
