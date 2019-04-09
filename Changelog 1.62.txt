@@ -4,7 +4,7 @@ Over9000 Panthera Server Version: 1.62
 
 Changes live already:
 
-[Changed] You craft ores with a right-click now and crafting ores has support for craft in shed now.
+[Changed] You can craft ores with a right-click now and crafting ores has support for craft in shed now.
 [Fixed] Sometimes traders could be punshed to death - thx @ *OSS*Rumpy.
 [Fixed] The Camo MTVR could not tow.
 [Fixed] After locking a towing vehicle which had a vehicle towed, the towing vehicle could not be opened with a key again.
