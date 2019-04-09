@@ -1,0 +1,22 @@
+Over9000 Panthera Server Version: 1.62
+
+[Changed] Increased chance to find C4 Charges in the loot.
+
+Changes live already:
+
+[Changed] You craft ores with a right-click now and crafting ores has support for craft in shed now.
+[Fixed] Sometimes traders could be punshed to death - thx @ *OSS*Rumpy.
+[Fixed] The Camo MTVR could not tow.
+[Fixed] After locking a towing vehicle which had a vehicle towed, the towing vehicle could not be opened with a key again.
+[Fixed] Sector AIs could spawn twice.
+[Fixed] Floating fire barrel at the Central Bank.
+[Fixed] Floating loot crate at Sector A - thx @ Dr. Moon.
+[Fixed] The 250 rnd. M240 magazine had a wrong sell price at Arnoldstein.
+[Fixed] Crafting Epoch buildables was not possbile for a short time - thx @Lama.
+[Fixed] A towed vehicle was unusable after the towing vehicle was sold if the towed vehicle was still towed to the towing vehicle.
+[Fixed] The KSVK magazine could not be sold at normal traders.
+[Fixed] Zombies Shield was not working - thx @AdmiralTuNix.
+[Fixed] Gambling was not working - thx @manubonzor.
+[Fixed] No marker name for the abandoned vault.
+[Fixed] Loot mission messages were still displayed even the radio was turned off.
+[Fixed] The Air Drop mission marker got not cleared correctly.
