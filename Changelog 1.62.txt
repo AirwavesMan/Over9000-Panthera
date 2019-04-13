@@ -1,37 +1,38 @@
 Over9000 Panthera Server Version: 1.62
 
-[Added] DayZ fences - you can build 2 types of fences (wood and metal) and a wooden gate now. The new buildings have multiple stages. More in the Info Menu under base building.
-[Added] Tank traps can be crafted now. You need 3 scrap metal to craft 1 tank trap. This supports craft in shed.
+[Added] DayZ fences - you can build 2 different types of fence now (wood and metal) and a wooden gate. The new buildings have multiple stages. More in the Info Menu under base building.
+[Added] Tank traps can now be crafted. You need 3 scrap metal to craft 1 tank trap. This supports craft in shed.
 [Added] AI-Missions have more usable vehicles now.
-[Added] Players getting  directly after login a message in the chat if they have combat logged last time.
-[Added] Sector units will be cleared if for 30mins no player is within the area of the sector and no sector units getting cleared.
-[Changed] Sector AIs and MGs have body armor now.
-[Changed] Increased chance to find C4 Charges in the loot.
+[Added] Players get a direct message in the chat if they have combat loggeg during their previous session.
+[Added] Sector units will despawn after 30mins if no player is within the area of the sector, and no sector units were getting killed.
+[Added] The Sector has some guarding vehicles now.
+[Changed] Sector AIs and MGs now have body armor.
+[Changed] Increased chance of finding C4 Charges in the loot.
 [Changed] Teleporting out of the Central Bank will only happen if the Central Bank event is active.
-[Changed] Combat log punishment at the Central Bank will only fire if the Bank Robbery was active at the restart when the player logged off.
-[Changed] Military loot got an update. This should change the quality of the loot in a better way.
-[Fixed] Body armor for Mercenaries and Military AIs (including Convoys) was not working correctly - be careful now.
+[Changed] Combat log punishment at the Central Bank will only activate if the Bank Robbery was active at the restart when the player logged off.
+[Changed] Military loot has been updated. This should increase the quality of the loot.
+[Fixed] Body armor for Mercenaries and Military AIs (including Convoys) was not working correctly before - be careful now.
 [Fixed] The clear time at the Central Bank works correctly now.
-[Fixed] Ownership from upgraded building parts sometimes worked not correctly.
+[Fixed] Ownership from upgraded building parts sometimes did not work properly.
 
 Changes live already:
 
 [Added] Indicator in chat what you have got from reading books.
-[Changed] You can craft ores with a right-click now and crafting ores has support for craft in shed now.
-[Changed] Vehicles at Black Market will be cleared after restart.
-[Changed] Killing Sector AIs grants more RP now.
-[Fixed] Sometimes traders could be punshed to death - thx @*OSS*Rumpy.
+[Changed] You can craft ores with a right-click now, and crafting ores has support for craft in shed.
+[Changed] Vehicles at the Black Market will be cleared after restart.
+[Changed] Killing Sector AIs grants more RP.
+[Fixed] Sometimes traders could be beaten to death - thx @*OSS*Rumpy.
 [Fixed] The Camo MTVR could not tow.
-[Fixed] After locking a towing vehicle which had a vehicle towed, the towing vehicle could not be opened with a key again.
+[Fixed] After locking a towing vehicle which had a vehicle in tow, meant that the towing vehicle could not be unlocked with a key anymore.
 [Fixed] Sector AIs could spawn twice.
 [Fixed] Floating fire barrel at the Central Bank.
 [Fixed] Floating loot crate at Sector A - thx @Dr. Moon.
-[Fixed] The 250 rnd. M240 magazine had a wrong sell price at Arnoldstein.
+[Fixed] The 250 rnd. M240 magazine had a wrong sale price at Arnoldstein.
 [Fixed] Crafting Epoch buildables was not possbile for a short time - thx @Lama.
-[Fixed] A towed vehicle was unusable after the towing vehicle was sold if the towed vehicle was still towed to the towing vehicle.
+[Fixed] A towed vehicle was unusable after the towing vehicle was sold, if the towed vehicle was still in tow with the towing vehicle.
 [Fixed] The KSVK magazine could not be sold at normal traders.
-[Fixed] Zombies Shield was not working - thx @AdmiralTuNix.
+[Fixed] Zombie Shield was not working - thx @AdmiralTuNix.
 [Fixed] Gambling was not working - thx @manubonzor.
 [Fixed] No marker name for the abandoned vault.
 [Fixed] Loot mission messages were still displayed even the radio was turned off.
-[Fixed] The Air Drop mission marker got not cleared correctly.
+[Fixed] The Air Drop mission marker was not clearly properly.
