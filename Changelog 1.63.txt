@@ -5,5 +5,9 @@ Over9000 Panthera Server Version: 1.63
 [Changed] Crashing is no longer allowed. That means no crash in any kind is allowed now. It does not depend on how you have crashed. Even by accident you will be punished.
 [Changed] The PVE Mode has new rules.
 [Changed] Player UI will no longer be displayed in the spawn menu.
+[Changed] Growing weed at bases got changed. You get at least 2 kilo of hemp from a base growing weed plant and a max of 7 kilo of hemp.
+[Changed] Harvest weed at bases will drop the weed on the ground now.
+[Changed] XP chance on harvesting fishing got increased.
+[Changed] Increased chance to find steel beams in construction sites.
 [Fixed] Land vehicles could be spawned from the virtual garage without a heli pad at the base. This will fix the random spawn on the map for land vehicles from the virtual garage if no heli pad is next to the garage.
-
+[Fixed] MV-22 could not lift.
