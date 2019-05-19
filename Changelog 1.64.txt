@@ -1,0 +1,4 @@
+Over9000 Panthera Server Version: 1.64
+
+[Changed] The coyote backpack, most food variations like MRE, cooked meat and many canned food and drinks are no longer for sale. This was changed due to new upcoming server missions.
+[Fixed] Tank traps could not be crafted - thx @Seb.
