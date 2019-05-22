@@ -1,4 +1,9 @@
 Over9000 Panthera Server Version: 1.64
 
+[Changed] The cave in the middle of the map got some corrections.
 [Changed] The coyote backpack, most food variations like MRE, cooked meat and many canned food and drinks are no longer for sale. This was changed due to new upcoming server missions.
+[Changed] Ladders can no longer be rotated.
 [Fixed] Tank traps could not be crafted - thx @Seb.
+[Fixed] Animated Heli Crashes should no longer crash into the cave in the middle of the map.
+[Removed] Cessna spawn at Sector A due to the bouncing cessna models.
+
