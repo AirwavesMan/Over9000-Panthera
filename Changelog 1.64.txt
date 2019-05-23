@@ -8,5 +8,6 @@ Over9000 Panthera Server Version: 1.64
 [Fixed] Tank traps could not be crafted - thx @Seb.
 [Fixed] Animated Heli Crashes should no longer crash into the cave in the middle of the map.
 [Fixed] New players could only spawn after a reconnect to the server.
+[Fixed] Vehicles and crates at Sector A were spawning every restart even the Sector A was not active.
 
 
