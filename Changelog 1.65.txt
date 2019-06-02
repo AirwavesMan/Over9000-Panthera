@@ -1,0 +1,12 @@
+Over9000 Panthera Server Version: 1.65
+
+[Added] Applying wipes gives XP and RP now.
+[Added] Players can heal a sepsis from other players with wipes and the sepsis bandages now.
+[Added] Empty supplie crates can be recycled now.
+[Added] Metal sheets can be crafted from scrap metal now. You need 10x scrap metal for one metal sheet.
+[Changed] Bandits getting 50% more RP from actions like hotwire and blow up things now. 
+[Changed] Increased chance for bandits to get XP from actions like hotwire and blow up things. 
+[Changed] Gold and silver can no longer be stacked or unstacked in sheds. 
+[Fixed] Players could not bandage other players with a sepsis bandage to stop the bleeding.
+
+
