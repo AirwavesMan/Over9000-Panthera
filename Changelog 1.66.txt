@@ -1,0 +1,16 @@
+Over9000 Panthera Server Version: 1.66
+
+[Added] The fuel pump is back now. It does not need a generator any longer. You can choose which vehicle you want to refuel or repair now.
+[Changed] Trees will take much more time to go down now. We changed this to affect less the network performance if someone is cutting wood.
+[Changed] The spawn chance of scrap electronics and floppy wire in AIs got decreased.
+[Changed] Refueling speed can be increased by 10x with a perk now.
+[Changed] Fuel pumps can repair vehicles now. This feature needs a perk.
+[Changed] The slap of the voice in side chat punishment has no longer an impact of the vehicle if the player is in a vehicle.
+[Changed] You can spawn in Vatra or Borna now if Sector A is not active.
+[Fixed] Winning RP from gambling displayed the wrong message.
+[Fixed] Zombie parts could be duped - thx @yoko
+[Fixed] PVE disable dialog was not displayed correctly if the PVE Mode was enabled before.
+[Fixed] The pictures and the text for the ship cemetery missions were not displayed correctly.
+[Fixed] On switching seats inside a helicopter a player could die sometimes - thx @STUMPY, THE PIRATE KING
+
+
