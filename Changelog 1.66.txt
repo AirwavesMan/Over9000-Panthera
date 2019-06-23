@@ -2,6 +2,7 @@ Over9000 Panthera Server Version: 1.66
 
 [Added] The fuel pump is back now. It does not need a generator any longer. You can choose which vehicle you want to refuel or repair now.
 [Added] You can see your forger level in your diary now.
+[Added] You can split and reload the most mg magazins into another now. E.g. 2x 100 M249 into 1x 200 M249.
 [Changed] Trees will take much more time to go down now. We changed this to affect less the network performance if someone is cutting wood.
 [Changed] The spawn chance of scrap electronics and floppy wire in AIs got decreased.
 [Changed] Refueling speed can be increased by 10x with a perk now.
