@@ -1,0 +1,10 @@
+Over9000 Panthera Server Version: 1.67
+
+[Added] Many new crafting recipes.
+[Added] A large list of crafting recipes in the diary.
+[Added] The Trader Menu shows which vehicle can tow and lift.
+[Changed] The ore vein output got rebalanced.
+[Removed] Vanilla crafting in the diary. Almost all vanilla crafting items can be crafted by a rightclick on the needed items.
+[Fixed] Remote start vehicle was not functional - thx @Naughtybandit.
+
+
