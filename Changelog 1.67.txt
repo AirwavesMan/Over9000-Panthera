@@ -1,9 +1,14 @@
 Over9000 Panthera Server Version: 1.67
 
 [Added] Many new crafting recipes.
-[Added] A large list of crafting recipes in the diary.
-[Added] The Trader Menu shows which vehicle can tow and lift.
+[Added] A large list of crafting recipes was added into the diary.
+[Added] The Trader Menu shows which vehicles can tow and lift.
+[Added] You can empty fuel and oil barrels or cans now.
+[Added] With a rightclick you can scrap many items now.
+[Added] Panthera has deerstands now.
 [Changed] The ore vein output got rebalanced.
+[Changed] Recycle backpack got updated with more items you can get.
+[Changed] The following loot tables got recreated: Farm, Castle, Hunting, Residential, Office, Industrial, Hanger.
 [Removed] Vanilla crafting in the diary. Almost all vanilla crafting items can be crafted by a rightclick on the needed items.
 [Fixed] Remote start vehicle was not functional - thx @Naughtybandit.
 
