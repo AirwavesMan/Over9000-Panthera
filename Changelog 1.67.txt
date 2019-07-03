@@ -6,10 +6,17 @@ Over9000 Panthera Server Version: 1.67
 [Added] You can empty fuel and oil barrels or cans now.
 [Added] With a rightclick you can scrap many items now.
 [Added] Panthera has deerstands now.
+[Added] Crafting has many new sounds.
+[Added] Missing XP gain function for some actions.
+[Changed] Player can get XP in vehicles now. This was not a bug and got revisited with the change of the XP function.
+[Changed] The ore craft output got slightly lowered.
 [Changed] The ore vein output got rebalanced.
 [Changed] Recycle backpack got updated with more items you can get.
 [Changed] The following loot tables got recreated: Farm, Castle, Hunting, Residential, Office, Industrial, Hanger.
-[Removed] Vanilla crafting in the diary. Almost all vanilla crafting items can be crafted by a rightclick on the needed items.
+[Changed] Crafting range got increased from 3m to 6m.
+[Changed] The RP and XP gain for actions at the Central Bank got reworked. The gain for bandits got increased and for heros decreased.
+[Changed] Some more trader price changes.
+[Removed] Vanilla crafting from the diary. Almost all vanilla crafting items can be crafted by a rightclick on the needed items.
 [Fixed] Remote start vehicle was not functional - thx @Naughtybandit.
 
 
