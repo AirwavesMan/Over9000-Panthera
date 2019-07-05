@@ -7,12 +7,13 @@ Over9000 Panthera Server Version: 1.67
 [Added] With a rightclick you can scrap many items now.
 [Added] Panthera has deerstands now.
 [Added] Crafting has many new sounds.
-[Added] Missing XP gain function for some actions.
+[Added] Missing XP gain for some actions.
+[Added] The weather was added back to the game. We will adjust it over the time.
 [Changed] Player can get XP in vehicles now. This was not a bug and got revisited with the change of the XP function.
 [Changed] The ore craft output got slightly lowered.
 [Changed] The ore vein output got rebalanced.
 [Changed] Recycle backpack got updated with more items you can get.
-[Changed] The following loot tables got recreated: Farm, Castle, Hunting, Residential, Office, Industrial, Hanger.
+[Changed] All loot tables got recreated.
 [Changed] Crafting range got increased from 3m to 6m.
 [Changed] The RP and XP gain for actions at the Central Bank got reworked. The gain for bandits got increased and for heros decreased.
 [Changed] Some more trader price changes.
