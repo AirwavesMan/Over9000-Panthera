@@ -1,0 +1,14 @@
+Over9000 Panthera Server Version: 1.68
+
+[Added] Zombies can have secondary weapons and tools as loot now.
+[Added] Zombies can have many new items as loot now.
+[Added] If you are inside your base which was not build in a building, the weather will count your base as buildings now. This brings you a warm temperature and cover from rain.
+[Added] A small forest at the west airfield.
+[Added] 3 crashed planes at the Volkovo, west and east airfield.
+[Added] New mining area between Vatra and Volkovo.
+[Added] You can take blood from dead bodies now. You only need an empty blood bag.
+[Added] Breaking tools are in-game now.
+[Added] Selca and Arnoldstein have doctors now. You can heal yourself for money. The money is based on your RP level. This means more RP is a higher price.
+[Added] The GUI has a maintain indicator now. It displays how many days you have left to maintain your base.
+[Changed] AI-Missions should spawn 1200m away from another mission now.
+[Fixed] Antibacterial Wipes got not removed on self-healing.
