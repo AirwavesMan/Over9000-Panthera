@@ -4,6 +4,7 @@ Over9000 Panthera Server Version: 1.69
 [Added] Gear sheds have snapping support now.
 [Added] A random supply crate was added which can have 12x random items and yes it can have 12x C4 or D-Batteries aswell.
 [Added] Removing a storage building will drop the remaining gear from the storage building on the ground now.
+[Added] Zombies have coins now.
 [Changed] Gambling got updated:
 	- You can only gamble for 3.000 Coins now.
 	- You can win vehicles with a key now.
@@ -13,7 +14,7 @@ Over9000 Panthera Server Version: 1.69
 	- You can win almost every item or weapon but not the TWS gun.
 [Changed] Buildings within the plot pole range will no longer spawn loot or zombies.
 [Changed] Crafting plywood and lumber packs needs strings now.
-[Changed] Maintain will close all lockboxes and vaults now to prevent skipping maintain if the vault was open.
+[Changed] Maintain will close all lockboxes and vaults now to prevent skipping maintain if a vault or lockbox was open.
 [Changed] Supply crates can be used with Craft in shed now.
 [Changed] The chance for loot in zombies got increased.
 [Fixed] The fishing pole got not removed after it broke if it was used as melee fishing pole in a boat.
@@ -21,3 +22,4 @@ Over9000 Panthera Server Version: 1.69
 [Fixed] The airdrop helicopter should no longer hover a longer time over the drop point.
 [Fixed] Snapping for DayZ mod fences did not work with epoch buildings.
 [Fixed] The XP gain for claiming vehicles was not functional.
+[Fixed] Plot Upgrade was not possible if the player had only one of the five used knife versions - thx @VogelVRue.
