@@ -1,0 +1,17 @@
+Over9000 Panthera Server Version: 1.70
+
+[Added] The needed materials for the DayZ Fences and the Plot Upgrade can be seen under recipes now.
+[Added] All removed building parts have a refund now.
+[Added] If the player is getting hungery, a sound and a message will pop up.
+[Changed] The rule for crashing got slightly modified since the last occurrences.
+[Changed] The rule for looting in PVE got updated since the last occurrences.
+[Changed] The needed materials for the DayZ Fences and the Plot Upgrade got updated.
+[Changed] The DayZ Fences support Upgrade from backpack now.
+[Changed] The spawn chance of steel beams got increased again.
+[Changed] The jackpot win chance got increased.
+[Changed] The win chance for the special vehicles got increased.
+[Changed] The way how to get batteries has changed - more in the Info Menu under 'Base Building'.
+[Changed] You can no longer change the code for vaults to 0000 and for lockboxes to Red 00.
+[Changed] Mining stones can give you up to 3 stones each mining try now.
+[Fixed] Suicide did not work if the player was not on the ground.
+
