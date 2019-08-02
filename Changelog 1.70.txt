@@ -13,5 +13,7 @@ Over9000 Panthera Server Version: 1.70
 [Changed] The way how to get batteries has changed - more in the Info Menu under 'Base Building'.
 [Changed] You can no longer change the code for vaults to 0000 and for lockboxes to Red 00.
 [Changed] Mining stones can give you up to 3 stones each mining try now.
+[Changed] All mining areas have a different ore output now.
+[Changed] The day and night circle got updated. The new methode affects much less the performance and the network traffic.
 [Fixed] Suicide did not work if the player was not on the ground.
 
