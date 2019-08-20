@@ -1,0 +1,10 @@
+Over9000 Panthera Server Version: 1.71
+
+[Added] A headless client which will spawn the loot and the zombies.
+[Changed] The PVE vote system got an update. Please report all bugs you notice.
+[Changed] The PVE rule for claiming AI-Missions is a more exact now.
+[Changed] The maintain counter in the plot management is counting down to match the UI counter now.
+[Changed] The mining areas have different names now.
+[Fixed] The right-click option to craft copper screws was missing - thx @Naughtybandit.
+
+
