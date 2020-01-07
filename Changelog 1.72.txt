@@ -3,7 +3,9 @@ Over9000 Panthera Server Version: 1.72
 [Changed] Players can no longer hotwire or blow up their own lockboxes and vaults.
 [Changed] Blowing up vaults got changed - more in Info Menu under Vaults, Lockboxes.
 [Changed] A raided vault must be repaired by its owner to be used again.
-
-
-
-
+[Changed] The drop rate of copper screws got increased by 30% at industial buildings and by 100% at construction sites.
+[Changed] Give players blood transfusions was updated. This fixes multiple problems.
+[Fixed] Elevator could not be build - thx @RedsuxXx.
+[Fixed] Fixing endless remove exploit - thx @Juane.
+[Fixed] Top snap point for half cinder wall was incorrect.
+[Fixed] Tents could not be upgraded - thx @Christian Rebel.
