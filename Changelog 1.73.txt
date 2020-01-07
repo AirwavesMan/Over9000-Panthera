@@ -1,0 +1,10 @@
+Over9000 Panthera Server Version: 1.73
+
+[Added] Players can now sell and buy items from a marketplace. The market can be accessed at the Banker.
+[Added] You can store or take all coins at once now.
+[Changed] Safes can be blown up and  will open everything again. The last changes were reverted.
+[Changed] The group marker refresh time got increased for a better performance. Give me a hint if it is too slow.
+[Changed] The group management menu shows no longer that players are in groups. Every indicator that a player is already in a group got removed.
+
+
+
