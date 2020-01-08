@@ -5,6 +5,6 @@ Over9000 Panthera Server Version: 1.73
 [Changed] Safes can be blown up and  will open everything again. The last changes were reverted.
 [Changed] The group marker refresh time got increased for a better performance. Give me a hint if it is too slow.
 [Changed] The group management menu shows no longer that players are in groups. Every indicator that a player is already in a group got removed.
-
+[Changed] Chainsaws have a different quality now. If the quality is better more wood can be harvested from a tree.
 
 
