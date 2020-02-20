@@ -1,0 +1,26 @@
+Over9000 Panthera Server Version: 1.74
+
+Collection of recent changes and upcoming changes:
+
+[Added] New Info Menu
+[Added] Tobacco leaves can be gathered from a Kilo of Tobacco now.
+[Added] Shivering on low temperature.
+[Added] Some new buildings at Arnoldstein and the military at FOB Boriana.
+[Added] Marketplace items will be delete after 10 days now.
+[Changed] Increase number of weed farms which spawn on server restart.
+[Changed] Vaults will no longer automatically be closed before maintain. All vaults must be closed manually now. Choose close all vaults in the plot management.
+[Changed] AI gear and trader prices got updated.
+[Changed] To build an elevator you need a sledehammer now.
+[Changed] The range on zombies can hear gunshots got increased by 100%.
+[Changed] Increased chance to find batteries in flashlight by 50%.
+[Changed] Increased chance to find C4 Charges and Satchel Charges in military zombies by 50%.
+[Fixed] Zombies standing careless in the wild.
+[Fixed] Zombies spawning too close and infront of the player.
+[Fixed] Player sync error if players looted a wallet of a not despawned Sector AI.
+[Fixed] Take a dump did not spawn fertilizer correctly if the given condition was reached.
+[Fixed] Vaults got directly closed if the player opened the plot management.
+[Fixed] Perks for gather zombies guts and gather meat did not work correctly.
+[Fixed] Gathering zombies guts was not possible.
+[Fixed] The message for a missing workbench was not displayed.
+[Fixed] Very slow and often scroll menu problems on open vaults and lockboxes.
+[Fixed] Vaults and lockboxed got not properly deleted after 12 and 16 days.
